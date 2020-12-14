@@ -1,0 +1,73 @@
+{
+    "ResultType": "EMAIL",
+    "Text": "\\\\docustor\\docustorgig$\\incomingMail\\11\\[EXTERNAL] Re SEBP107060-001-001-001701 Grand Street Condo Association.eml",
+    "Depth": 1,
+    "CodeClaimAgency": [],
+    "Sections": [{
+            "ResultType": "emailfrom",
+            "Text": "Veronica Negron <veronica@realestatenj.com>",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        },
+        {
+            "ResultType": "emailto",
+            "Text": "Jason Camerano <Jason.Camerano@guard.com>",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        },
+        {
+            "ResultType": "emailsubject",
+            "Text": "[EXTERNAL] Re: SEBP107060-001-001-001701 Grand Street Condo Association",
+            "Depth": 2,
+            "CodeClaimAgency": [
+                "SEBP107060-001-001-001"
+            ],
+            "Sections": []
+        },
+        {
+            "ResultType": "emailbody",
+            "Text": "CAUTION: This email originated from outside of BH Insurance.\r\n\r\nHi Jason,\r\n\r\nI was under the impression that Guard was to be put on notice to the loss\r\nuntil we better understand the cost that will be associated with the\r\nrepairs. Not for an actual claim to be opened just yet. Is this not the\r\ncase?\r\n\r\nOn Thu, Jul 16, 2020 at 11:17 AM Jason Camerano <Jason.Camerano@guard.com>\r\nwrote:\r\n\r\n> Veronica,\r\n>\r\n> I tried to call you & could not leave a vm due to the mailbox being full.\r\n> I also tried to text you.  Below the signature line of this email, you’ll\r\n> see my contact information. I’m in the office Monday through Friday from\r\n> 8:00 AM until 4:30 PM EST.\r\n>\r\n>\r\n>\r\n> Email is definitely the quickest form of communication for\r\n> questions/updates about a claim. If you are sending me a question or\r\n> requesting a status update via email, please be sure to include your claim\r\n> number in the subject line. Please be advised that the claims process,\r\n> including reviews, can sometimes exceed 90 days.  *I have assigned an\r\n> independent adjusting firm to the claim and you should hear from them\r\n> soon.  They will be looking to gather information & schedule a site\r\n> inspection.*\r\n>\r\n>\r\n>\r\n> *How to send claim documents for review:*\r\n>\r\n>\r\n>\r\n> *FAX*\r\n>\r\n> *EMAIL*\r\n>\r\n> *MAIL*\r\n>\r\n>\r\n>\r\n> (570) 825-0611\r\n>\r\n>\r\n>\r\n> CLAIMS3@GUARD.COM\r\n>\r\n> GUARD Insurance\r\n>\r\n> *Attn: Claims*\r\n>\r\n> PO BOX 1368\r\n>\r\n> Wilkes Barre, PA 18703\r\n>\r\n>\r\n>\r\n> Please make sure to place your claim number SEBP107060-001-001-001701 in\r\n> the subject line of any email, on the cover page of any fax, and on any\r\n> document you send via mail. *Please do not send claim documents for\r\n> review to my direct email. *\r\n>\r\n>\r\n>\r\n> I look forward to working with you!\r\n>\r\n>\r\n>\r\n> Thanks!\r\n>\r\n>\r\n>\r\n>\r\n> ------------------------------\r\n>\r\n> *Jason Camerano*\r\n>\r\n> PROPERTY CLAIMS SPECIALIST\r\n>\r\n> *Jason.Camerano@guard.com <Jason.Camerano@guard.com>*\r\n>\r\n> 570-825-9900, ext.4738\r\n>\r\n>\r\n>\r\n>\r\n>\r\n> <https://protect-us.mimecast.com/s/5HKzCADKPou9xZ3NUGVfwk?domain=facebook.com> <https://protect-us.mimecast.com/s/IApcCBB9LpTVxD97U6_Nnx?domain=twitter.com>\r\n> <https://protect-us.mimecast.com/s/znFWCDkW9rsB7oK5iAnXad?domain=linkedin.com>\r\n>\r\n>\r\n>\r\n> ****** CONFIDENTIALITY NOTICE ******\r\n>\r\n> THIS E-MAIL, INCLUDING ANY ATTACHED FILES, MAY CONTAIN CONFIDENTIAL,\r\n> PROPRIETARY AND/OR PRIVILEGED INFORMATION FOR THE SOLE USE OF THE INTENDED\r\n> RECIPIENT(S). ANY REVIEW, USE, DISTRIBUTION, COPY OR DISCLOSURE BY OTHERS\r\n> IS STRICTLY PROHIBITED. IF YOU ARE NOT THE INTENDED RECIPIENT (OR\r\n> AUTHORIZED TO RECEIVE INFORMATION FOR THE RECIPIENT), PLEASE CONTACT THE\r\n> SENDER AND DELETE ALL COPIES OF THIS MESSAGE.\r\n>\r\n> THANK YOU\r\n>\r\n>\r\n\r\n-- \r\nThank you,\r\n\r\n\r\n[image: LOGO123.jpg]\r\n\r\nVeronica Negron\r\n\r\nProperty Manager\r\n\r\nCervelli Real Estate and Property Management\r\n\r\n1 Marine Plaza, Suite 304, North Bergen, NJ 07047\r\n\r\nT.: 201-868-6300 F.: 201-868-6055 veronica@realestatenj.com\r\n\r\n\r\n\r\n P Please consider the environment before printing this email.\r\n\r\nNOTICE: This message, including all attachments transmitted with it, is for\r\nthe use of the addressee only. It may contain proprietary, confidential\r\nand/or legally privileged information. No confidentiality or privilege is\r\nwaived or lost by any mistransmission. If you are not the intended\r\nrecipient, you must not, directly or indirectly, use, disclose, distribute,\r\nprint or copy any part of this message. If you believe you have received\r\nthis message in error, please delete it and all copies of it from your\r\nsystem and notify the sender immediately by reply e-mail. Thank you.\r\n\r\nThis email may contain links to third party web sites. Cervelli Management\r\nCorp. or Michael Cervelli Real Estate is not responsible for the content or\r\nprivacy policies of such other sites and the existence of a link in this\r\nemail does not imply an endorsement of the linked web site or the goods or\r\nservices offered therein.\r\n",
+            "Depth": 2,
+            "CodeClaimAgency": [
+                "SEBP107060-001-001-001"
+            ],
+            "Sections": []
+        },
+        {
+            "ResultType": "IMAGE",
+            "Text": "image001.gif",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": [{
+                "ResultType": "ocrtext",
+                "Text": "5//Berkshire Hathaway\nﬁ‘ GUARD amsaz:\n\n",
+                "Depth": 3,
+                "CodeClaimAgency": [],
+                "Sections": []
+            }]
+        },
+        {
+            "ResultType": "IMAGE",
+            "Text": "image002.gif",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        },
+        {
+            "ResultType": "IMAGE",
+            "Text": "image003.gif",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        },
+        {
+            "ResultType": "IMAGE",
+            "Text": "image004.gif",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "ResultType": "EMAIL",
+    "Text": "\\\\docustor\\docustorgig$\\incomingMail\\11\\Re [EXTERNAL] G0AU021498-002-002-002.eml",
+    "Depth": 1,
+    "CodeClaimAgency": [],
+    "Sections": [{
+            "ResultType": "emailfrom",
+            "Text": "Maaco New Berlin <maaconewberlin5@hotmail.com>",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        },
+        {
+            "ResultType": "emailto",
+            "Text": "GUARD Claims Team <GUARDClaimsTeam@GUARD.com>",
+            "Depth": 2,
+            "CodeClaimAgency": [],
+            "Sections": []
+        },
+        {
+            "ResultType": "emailsubject",
+            "Text": "Re: [EXTERNAL] G0AU021498-002-002-002",
+            "Depth": 2,
+            "CodeClaimAgency": [
+                "G0AU021498-002-002-002"
+            ],
+            "Sections": []
+        },
+        {
+            "ResultType": "emailbody",
+            "Text": "CAUTION: This email originated from outside of BH Insurance.\r\n\r\nCustomer was originally not going through insurance so that is the only picture I have of damage.\r\n\r\n\r\nMyles Beck\r\n\r\n\r\nMyles Beck\r\nAsst. Manager / Estimator\r\n\r\nMaaco Collision Repair and Auto Painting\r\n2775 S 166Th Street\r\nNew Berlin, WI 53151\r\n262-784-9540 Office\r\n\r\n________________________________\r\nFrom: GUARD Claims Team <GUARDClaimsTeam@GUARD.com>\r\nSent: Thursday, July 16, 2020 9:58 AM\r\nTo: Maaco New Berlin <MaacoNewBerlin5@hotmail.com>\r\nSubject: RE: [EXTERNAL] G0AU021498-002-002-002\r\n\r\n\r\nThank you Myles,\r\n\r\n\r\n\r\nCan you please send me a few more pictures to support the damage?\r\n\r\n\r\n\r\nThanks,\r\n\r\n\r\n\r\n________________________________\r\n\r\nHeather White AIS, AIC, AIC-M\r\n\r\nAuto Claims Representative II\r\n\r\nBerkshire Hathaway GUARD Insurance Companies\r\n\r\nclaims3@guard.com<mailto:claims3@guard.com>\r\n\r\n570-825-9900, ext. 4727\r\n\r\n\r\n\r\nThis communication is being made by the insurance company that issued your policy\r\n\r\nwhich is the applicable company listed below that is also named on your insurance policy.\r\n\r\nAmGUARD Insurance Company, EastGUARD Insurance Company,\r\n\r\nNorGUARD Insurance Company, and WestGUARD Insurance Company members of Berkshire Hathaway GUARD Insurance Companies.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFrom: Maaco New Berlin <MaacoNewBerlin5@hotmail.com>\r\nSent: Tuesday, July 14, 2020 1:38 PM\r\nTo: Claims3@guard.com\r\nSubject: [EXTERNAL] G0AU021498-002-002-002\r\n\r\n\r\n\r\nCAUTION: This email originated from outside of BH Insurance.\r\n\r\n\r\n\r\n\r\n\r\nMyles Beck\r\n\r\n\r\n\r\n\r\n\r\nMyles Beck\r\n\r\nAsst. Manager / Estimator\r\n\r\n\r\n\r\nMaaco Collision Repair and Auto Painting\r\n\r\n2775 S 166Th Street\r\n\r\nNew Berlin, WI 53151\r\n\r\n262-784-9540 Office\r\n\r\n\r\n\r\n\r\n\r\n****** CONFIDENTIALITY NOTICE ******\r\n\r\nTHIS E-MAIL, INCLUDING ANY ATTACHED FILES, MAY CONTAIN CONFIDENTIAL, PROPRIETARY AND/OR PRIVILEGED INFORMATION FOR THE SOLE USE OF THE INTENDED RECIPIENT(S). ANY REVIEW, USE, DISTRIBUTION, COPY OR DISCLOSURE BY OTHERS IS STRICTLY PROHIBITED. IF YOU ARE NOT THE INTENDED RECIPIENT (OR AUTHORIZED TO RECEIVE INFORMATION FOR THE RECIPIENT), PLEASE CONTACT THE SENDER AND DELETE ALL COPIES OF THIS MESSAGE.\r\n\r\nTHANK YOU\r\n",
+            "Depth": 2,
+            "CodeClaimAgency": [
+                "G0AU021498-002-002-002",
+                "G0AU021498-002-002-002"
+            ],
+            "Sections": []
+        }
+    ]
+}
